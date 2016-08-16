@@ -1,5 +1,7 @@
 # Peepchat
 
+See [Building a performant real-time web app with Ember Fastboot and Phoenix] (https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.fmadlqv8e)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
